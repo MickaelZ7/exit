@@ -1,0 +1,2 @@
+git remote add origin https://github.com/MickaelZ7/exit.git
+ git push -u origin main
